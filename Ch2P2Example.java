@@ -10,3 +10,10 @@ public class Ch2P2Example {
         System.out.println(num);
     }
 }
+
+/*
+ -Java requires that variables be declared before they are used. 
+ -Following is the general form of variable declaration: type var-name;
+    -type specifies the type of variable being declared
+    -var-name is the name of the variable. 
+ */
