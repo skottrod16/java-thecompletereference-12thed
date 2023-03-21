@@ -20,3 +20,15 @@ public class Ch2P3IfSample {
         }
     }
 }
+
+/*
+ -The Java If Statement determines the flow of execution based on whether some condition is true or false. Its simplest form is: 
+    if(condition)statement
+-Condition is a Boolean expression. (A boolean expression is one that evaluates to either true or false.) If condition is true, then the statement is executed. If the statement is false, then the statement is bypassed. 
+
+>>>Basic Relational Operators<<<
+Operator    Meaning
+<           Less than
+>           Greater than
+==          Equal to
+ */
